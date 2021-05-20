@@ -54,7 +54,7 @@ void saxml_HandleCharacter(tSaxmlParser parser, const char character);
 void saxml_Reset(tSaxmlParser parser);
 
 #ifdef __cplusplus
-};
+}
 #endif
 
 #endif /* SAXML_H */
